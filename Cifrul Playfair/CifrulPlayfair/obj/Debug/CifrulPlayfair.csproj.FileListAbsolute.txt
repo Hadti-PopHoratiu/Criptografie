@@ -1,0 +1,14 @@
+C:\Users\RanZY\source\repos\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.exe.config
+C:\Users\RanZY\source\repos\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.exe
+C:\Users\RanZY\source\repos\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.pdb
+C:\Users\RanZY\source\repos\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.csprojAssemblyReference.cache
+C:\Users\RanZY\source\repos\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.csproj.CoreCompileInputs.cache
+C:\Users\RanZY\source\repos\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.exe
+C:\Users\RanZY\source\repos\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.pdb
+C:\Users\Hari\Desktop\Cifrul Playfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.exe.config
+C:\Users\Hari\Desktop\Cifrul Playfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.exe
+C:\Users\Hari\Desktop\Cifrul Playfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.pdb
+C:\Users\Hari\Desktop\Cifrul Playfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.csprojAssemblyReference.cache
+C:\Users\Hari\Desktop\Cifrul Playfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.csproj.CoreCompileInputs.cache
+C:\Users\Hari\Desktop\Cifrul Playfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.exe
+C:\Users\Hari\Desktop\Cifrul Playfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.pdb
